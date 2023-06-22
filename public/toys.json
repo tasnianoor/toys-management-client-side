@@ -1,0 +1,65 @@
+[
+{
+"toy_name":"Ariel",
+"price":"$ 19.99",
+"picture":"https://i.ibb.co/M2mFB0N/c1.jpg",
+"category":"disney-princess",
+"ratings": 4.5
+},
+{
+"toy_name":"Moana",
+"price":"$ 25.00",
+"picture":"https://i.ibb.co/0jNLZp7/c2.jpg",
+"category":"disney-princess",
+"ratings":4.4
+},
+{
+"toy_name":"Rapunzel",
+"price":"$ 40.99",
+"picture":"https://i.ibb.co/MR24k8K/c3.jpg",
+"category":"disney-princess",
+"ratings":4.2
+},
+{
+"toy_name":"Anna",
+"price":"$ 27.50",
+"picture": "https://i.ibb.co/HDzM81s/c4.jpg",
+"category":"frozen",
+"ratings":4.1
+},
+{
+"toy_name":"Elsa",
+"price":"$ 32.60",
+"picture":"https://i.ibb.co/g3zgr0Z/c5.jpg",
+"category":"frozen",
+"ratings":4.5
+},
+{
+"toy_name":"Mattias",
+"price":"$ 22.99",
+"picture":"https://i.ibb.co/80vJzKM/c6.jpg",
+"category":"frozen",
+"ratings":4.3
+},
+{
+"toy_name":"DonaldDuck",
+"price":"$ 44.00",
+"picture":"https://i.ibb.co/dpGt6ZP/c7.jpg",
+"category":"duck",
+"ratings":4.1
+},
+{
+"toy_name":"DaisyDuck",
+"price":"$ 38.08",
+"picture":"https://i.ibb.co/WDJHth1/c8.jpg",
+"category":"duck",
+"ratings":4.2
+},
+{
+"toy_name":"Louie",
+"price":"$ 32.55",
+"picture":"https://i.ibb.co/T2LP13G/c9.jpg",
+"category":"duck",
+"ratings":4.3
+
+}]
